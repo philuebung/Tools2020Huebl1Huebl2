@@ -10,6 +10,8 @@ int a = 99;
 
 	String member2 = "Member2";
 
+	int huuugeFIX = 0; # THIS FIXES EVERYTHING #
+
   }
 
 }
