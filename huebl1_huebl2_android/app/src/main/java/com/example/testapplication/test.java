@@ -6,15 +6,13 @@ int a = 99;
 
   public void thisIsANewMethod() {
 
-      String member2 = "Member2";
+  String member2 = "Member2";
 
-	String member2 = "Member2";
+  String member2 = "Member2";
 
-  long long1 = 41212312;
+	int huuugeFIX = 0; # THIS FIXES EVERYTHING #
 
-  long long2 = 1231231;
-
-  String code = "Some lines of Code";
+	int anotherHuuugeFIX = 0; # THIS FIXES EVERYTHING EVEN MORE #
 
   }
 
